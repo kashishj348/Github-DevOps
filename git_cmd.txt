@@ -1,0 +1,99 @@
+wsl --list --verbose
+     wsl --install
+     exit
+     ls
+     pwd
+     mkdir Github-DevOps
+     whoami
+     wsl
+     sudo apt install wsl
+     ls
+     python -u "c:\Users\HP\Github-DevOps\testing.py"
+     python3 --version
+     python -u "c:\Users\HP\Github-DevOps\testing.py"
+     python3 /mnt/c/Users/HP/Github-DevOps/testing.py
+     sudo apt install python-is-python3
+     python -u "c:\Users\HP\Github-DevOps\testing.py"
+     cd /mnt/c/Users/HP/Github-DevOps
+     python -u "c:\Users\HP\Github-DevOps\testing.py"
+     python3 testing.py
+     ls
+     ls -l
+     git init
+     python -u "c:\Users\HP\Github-DevOps\testing.py"
+     ls
+     git init
+     rm testing.py
+     git init
+     ls -a
+     git status
+     python3 testing.py
+     .git testing.py
+     python -u "c:\Users\HP\Github-DevOps\.git\testing.py"
+     git status
+     git .add
+     git .
+     git add.
+     git add .
+     git status
+     ls
+     git commit -m "testing.py"
+     git status
+     mv .git/testing.py
+     mv .git/testing.py .
+     ls
+     git status
+     git add testing.py
+     git status
+     git commit -m "added testing files "
+     git commit -m "added testing files"
+     git config --list
+     git config --global user.name "Kashish Jain"
+     git config --global user.email "@gmail.com"
+     git config --list
+     git status
+     rm testing.py
+     ls
+     git status
+     git restore testing.pygit add git_cmd.txt
+     git status
+     mv .git/git_cmd.txt .
+     history
+     git status
+     git add git_cmd.txt
+     git status
+     git commit -m "added git_cmd files"
+     git status
+     ls
+     whoami
+     cat
+     cat git_cmd.txt
+     history
+     git remote add origin
+     git remote -v
+     git status
+     git push origin master
+     git remote set-url origin
+     git remote -v
+     git push origin master
+     cd hp/Github-DevOps
+     cd HPp/Github-DevOps
+     cd C:\Users\HP\Github-DevOps
+     cd HP\Github-DevOps
+     cd desktop\az204
+     pwd
+     ls
+     cd ~
+     cd ..
+     pwd
+     cd \mnt\c\Users\HP
+     cd /mnt/c/Users/HP
+     mkdir DevOps-clone
+     ls
+     cd DevOps-clone
+     ls
+     ls -a
+     git clone hhtp://_______________________
+     ls
+     cd Github-DevOps
+     ls
