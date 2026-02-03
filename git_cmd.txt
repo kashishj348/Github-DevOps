@@ -97,3 +97,5 @@ wsl --list --verbose
      ls
      cd Github-DevOps
      ls
+
+this is the basics commands of github
